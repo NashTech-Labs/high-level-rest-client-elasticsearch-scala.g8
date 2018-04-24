@@ -7,7 +7,7 @@ A [Giter8][g8] template that describes how to use Java High-Level Rest Client to
 Steps to follow to clone and compile the application:
 
 - Open the terminal.
-- Clone the project ```sbt new DivyaDua/high-level-rest-client-elasticsearch-scala.g8```.
+- Clone the project ```sbt new knoldus/high-level-rest-client-elasticsearch-scala.g8```.
 - ```cd high-level-rest-client-elasticsearch-scala```.
 - Execute ```sbt clean compile```.
 
@@ -23,8 +23,8 @@ You can now run the commands on either local Kibana or AWS proxy Kibana to inter
 
 For more information on Amazon ES, you can check out the following blogs:
 
-- https://divyadua25.wordpress.com/2018/03/31/amazon-es-made-simpler-here-1/
-- https://divyadua25.wordpress.com/2018/04/14/anonymous-user-says-amazon-es-2/
+- https://blog.knoldus.com/2018/04/15/amazon-es-setting-up-the-cluster-1/
+- https://blog.knoldus.com/2018/04/16/amazon-es-secure-your-cluster-from-anonymous-users-2/
 
 
 Template license
