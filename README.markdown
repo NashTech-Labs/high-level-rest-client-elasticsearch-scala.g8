@@ -7,8 +7,8 @@ A [Giter8][g8] template that describes how to use Java High-Level Rest Client to
 Steps to follow to clone and compile the application:
 
 - Open the terminal.
-- Clone the project ```sbt new DivyaDua/high-level-rest-client-aws-scala.g8```.
-- ```cd high-level-rest-client-aws-scala```.
+- Clone the project ```sbt new DivyaDua/high-level-rest-client-elasticsearch-scala.g8```.
+- ```cd high-level-rest-client-elasticsearch-scala```.
 - Execute ```sbt clean compile```.
 
 Steps to follow to run the application:
